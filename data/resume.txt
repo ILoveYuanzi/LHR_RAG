@@ -1,3 +1,0 @@
-·办公软件的熟练使用如Word，Excel，PowerPoint。
-·⼩型PC与服务器组装
-·熟练使用大语言模型以及部署（DeepSeekV4，ChatGPT，Gemini）
