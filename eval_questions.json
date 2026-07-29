@@ -1,0 +1,78 @@
+[
+  {
+    "query": "刘浩然的求职意向是什么？",
+    "relevant_text": "求职意向：RAG工程师实习"
+  },
+  {
+    "query": "他的联系方式是什么？",
+    "relevant_text": "电话：19283510048"
+  },
+  {
+    "query": "毕业院校和专业是什么？",
+    "relevant_text": "毕业院校：罗定职业技术学院学院"
+  },
+  {
+    "query": "他计划实习多长时间？",
+    "relevant_text": "计划实习时间：6-12个月"
+  },
+  {
+    "query": "校园资讯网站项目使用什么技术栈？",
+    "relevant_text": "技术栈：PHP + MySQL + HTML5 + CSS3 + Bootstrap 5 + JavaScript + Summernote 富文本编辑器"
+  },
+  {
+    "query": "在校园资讯网站中，图片是如何存储的？",
+    "relevant_text": "将图片二进制存入 MySQL 的 LONGBLOB 字段，通过 image.php 接口动态读取输出"
+  },
+  {
+    "query": "该项目中如何防止 SQL 注入？",
+    "relevant_text": "全部使用预处理语句防 SQL 注入"
+  },
+  {
+    "query": "微信小程序“简购”的数据存储方案是什么？",
+    "relevant_text": "使用 FileSystemManager 读写本地 JSON 文件，实现持久化存储"
+  },
+  {
+    "query": "微信小程序支持哪些图片上传方式？",
+    "relevant_text": "支持 wx.chooseMedia 多图上传"
+  },
+  {
+    "query": "他有哪些前端开发经验？",
+    "relevant_text": "动态 Web 网站开发（HTML5 + CSS3 + Bootstrap + JavaScript）"
+  },
+  {
+    "query": "他熟悉哪些后端技术？",
+    "relevant_text": "熟悉 FastAPI / Flask，有 RESTful API 设计实践"
+  },
+  {
+    "query": "他对 RAG 系统有哪些了解？",
+    "relevant_text": "了解 Milvus 向量检索及混合检索原理"
+  },
+  {
+    "query": "他有 Agent 开发经验吗？",
+    "relevant_text": "理解 ReAct 设计模式，有 Function Calling 编排经验"
+  },
+  {
+    "query": "他使用过哪些大语言模型？",
+    "relevant_text": "熟练使用并部署过 DeepSeekV4、ChatGPT、Gemini 等模型"
+  },
+  {
+    "query": "他熟悉哪些数据库？",
+    "relevant_text": "熟悉 MySQL 关系型数据库设计（索引、事务、预处理语句）"
+  },
+  {
+    "query": "他有哪些工程化工具的使用经验？",
+    "relevant_text": "Linux 开发环境、Git 版本控制，具备 Docker 容器化基本能力"
+  },
+  {
+    "query": "他是否会使用 Java 编程？",
+    "relevant_text": "熟练使用 Scanner、循环分支、异常捕获，开发过 ATM 模拟程序"
+  },
+  {
+    "query": "他有没有数据可视化的经验？",
+    "relevant_text": "熟练 Matplotlib 与 Seaborn 进行数据可视化"
+  },
+  {
+    "query": "他有哪些设计类的技能？",
+    "relevant_text": "精通 PS、Procreate 与 Procreate Dreams 协作工作流"
+  }
+]
